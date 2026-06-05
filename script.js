@@ -16,7 +16,7 @@ const questions = [
     },
     {
         question: "Který HTML tag vytvoří největší nadpis?",
-        answers: ["<p>", "<h1>", "<div>", "<span>"],
+        answers: ["&lt;p&gt;", "&lt;h1&gt;", "&lt;div&gt;", "&lt;span&gt;"],
         correct: 1
     },
     {
